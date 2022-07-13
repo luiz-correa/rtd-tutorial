@@ -6,7 +6,7 @@ Uso
 Instalação
 ------------
 
-To use Lumache, first install it using pip:
+To use Lumache, first install it using pip-----:
 
 .. code-block:: Configuração > Escala
 
