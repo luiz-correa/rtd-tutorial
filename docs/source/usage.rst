@@ -10,12 +10,12 @@ To use Lumache, first install it using pip-----:
 
 .. code-block:: Configuração > Escala
 
-   (.venv) $ pip install lumache
+   (.venv) $ pip install lumache...
 
 Criando receitas
 ----------------
 
-To retrieve a list of random ingredients,
+Lista de ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
 
 .. autofunction:: lumache.get_random_ingredients
