@@ -1,4 +1,4 @@
-Usage
+Uso
 =====
 
 .. _installation:
@@ -8,7 +8,7 @@ Instalação
 
 To use Lumache, first install it using pip:
 
-.. code-block:: console
+.. code-block:: Configuração > Escala
 
    (.venv) $ pip install lumache
 
