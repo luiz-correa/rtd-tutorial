@@ -6,6 +6,8 @@ Uso
 Instalação
 ------------
 
+.. code-block:: Configuração > Escalas de plantão ``Plantão Médico``
+
 To use Lumache, first install it using pip-----:
 
 .. code-block:: Configuração > Escala
